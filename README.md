@@ -19,7 +19,7 @@ Currently servers support following commands:
 	- Admin_KickPlayer <PlayerID> <Reason> - Kicks the stated player with shown reason.
 	- Admin_Chatban <PlayerID> <Seconds> <Reason> - Bans the stated player from using chat for the specified amount of time.
 	- Admin_ChatUnban <PlayerID> - Allows the stated player to use chat again.
-	- Admin_Ban <PlayerID> <Seconds> <Reson> - Bans the stated player from the server for the specified amount of time.
+	- Admin_Ban <PlayerID> <Seconds> <Reason> - Bans the stated player from the server for the specified amount of time.
 	- Admin_Unban <PlayerID> - Unbans the stated player.
 	
 * **Server Manipulation**:
