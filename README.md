@@ -106,3 +106,21 @@ Currently servers support following commands:
 		- BoneGloves_A - Bone Gauntlets
 		- BonePants_A - Bone Pants
 		- BoneBoots_A - Bone Boots
+	- **Chitin Set**:
+		- ChitinHelmet_A - Chitin Helmet
+		- ChitinArmor_A - Chitin Armor
+		- ChitinGloves_A - Chitin Gloves
+		- ChitinPants_A - Chitin Pants
+		- ChitinBoots_A - Chitin Boots
+	- **Metal Set**:
+		- MetalHelmet_A - Metal Helmet
+		- MetalArmor_A - Metal Armor
+		- MetalGloves_A - Metal Gloves
+		- MetalPants_A - Metal Pants
+		- MetalBoots_A - Metal Boots
+	- **Masks**:
+		- BoneheadMask_A - Bone Mask
+		- StrangerMask_A - Warrior Mask
+		- ZombieIronMask_A - Black Mask
+		- BubbleHelmet_A - Bubble
+		
