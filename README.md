@@ -50,4 +50,11 @@ Currently servers support following commands:
 	- TeleportStone_C - Return Stone
 	- HealthPotion_C - Health Potion
 	- EnergyPotion_C - Energy Potion
-	- 
+	- StaminaPotion_C - Stamina Potion
+	
+	* Tools and Weapons
+	- WoodenAxe_W - Stone Axe
+	- WoodenPike_W - Stone Pick
+	- WoodenTorch_W - Wooden Torch
+	- WoodenClub_W - Stone Mace
+	- WoodenGreatSword_W - Stone Two-Handed Sword
