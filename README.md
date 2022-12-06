@@ -44,7 +44,7 @@ Currently servers support following commands:
 	- Admin_ChatMessage [Message] - Displays the stated message in the game chat.
 	
 	# Item IDs
-	* Consumables and Currency:
+* Consumables and Currency:
 	- Coin_C - Coin
 	- FrozenFlame_C - Frozen Flame
 	- TeleportStone_C - Return Stone
@@ -52,7 +52,8 @@ Currently servers support following commands:
 	- EnergyPotion_C - Energy Potion
 	- StaminaPotion_C - Stamina Potion
 	
-	* Tools and Weapons
+	
+* Tools and Weapons
 	- WoodenAxe_W - Stone Axe
 	- WoodenPike_W - Stone Pick
 	- WoodenTorch_W - Wooden Torch
