@@ -147,4 +147,15 @@ Currently servers support following commands:
 	- Coal_M - Coal
 	- IronBar_M - Iron Ingot
 	- FlaskEmpty_C - Empty Waterskin
+
+* Quest:
+	- Quest_CradleBowZombieMask_C - Skull Hunter Mask
+	- Quest_CradleAxeZombieMask_C - Raging Slayer Mask
+	- Quest_CradleStaffZombieMask_C - Smoldering Warlock Mask
+	- Quest_CradleClubZombieMask_C - Master's Mask
+	- Quest_Tambourine_C - Cursed Tambourine
+	- Quest_TambourineMallet_C - Cursed Tambourine Mallet
+	- Quest_Dombra_C - Cursed Dombra
+	- Quest_Flute_C - Cursed Flute
+	- Quest_BoneheadToy_C - Unusual Toy
 		
