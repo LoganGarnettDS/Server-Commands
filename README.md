@@ -1,5 +1,5 @@
 # Server Commands
-Server commands allow you to get more information regarding your server's players, control their access to the server and affect their in-game state or inventory.
+Server commands allow you to get more information regarding your server's players, control their access to it and affect their in-game state or inventory.
 Currently servers support following commands:
 - Angle brackets disignate <Required-parametres> - such parametres must be entered for the command to work.	
 - Square brackets disignate [Optional-parametres] - such parametres can be entered in addition to the command.
