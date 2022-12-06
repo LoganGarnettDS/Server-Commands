@@ -51,7 +51,9 @@ Currently servers support following commands:
 	- HealthPotion_C - Health Potion
 	- EnergyPotion_C - Energy Potion
 	- StaminaPotion_C - Stamina Potion
-	
+	- SolidEssence_c - Solid Essence
+	- CrystalEssence_C - Crystal Essence
+	- PortalEssence_C - Astral Essence
 	
 * Tools and Weapons
 	- **I Tier**:
@@ -81,6 +83,7 @@ Currently servers support following commands:
 		- MetalGreatSword_W - Metal Two-handed Sword
 		- MetalGreatAxe_W - Metal Battleaxe
 		- MetalStaff_W - Metal Staff
+	
 *Armor and Equipment:
 	- **Cloth Set**:
 		- ClothHelmet_A - Cloth Bandana
@@ -123,4 +126,25 @@ Currently servers support following commands:
 		- StrangerMask_A - Warrior Mask
 		- ZombieIronMask_A - Black Mask
 		- BubbleHelmet_A - Bubble
+	
+* Resources:
+	- Branches_M - Branch
+	- Wood_M - Log
+	- Plank_M - Plank
+	- Fiber_M - Fiber
+	- Fabric_M - Fabric
+	- Leather_M - Nibbler Leather
+	- Hide_M - Large Boar Hide
+	- Fur_M - Ram Hide
+	- Hide_02_M - Manticore Hide
+	- Bones_M - Ancient Bones
+	- Ivory_M - Tusks
+	- Horn_M - Ram Horn
+	- Stone_M - Stone
+	- Flint_M - Flint
+	- Block_M - Stone Block
+	- Ore_M - Iron Ore
+	- Coal_M - Coal
+	- IronBar_M - Iron Ingot
+	- FlaskEmpty_C - Empty Waterskin
 		
