@@ -33,7 +33,7 @@ Currently servers support following commands:
 		
 * **Player Interaction**:
 	- Admin_GetPlayerInfo <PlayerID> - Displays additional information about a player.
-  - Admin_GetPlayerInventory <PlayerID> - Displays item IDs and their amount in a player's inventory.
+  	- Admin_GetPlayerInventory <PlayerID> - Displays item IDs and their amount in a player's inventory.
 	- Admin_AddItem <PlayerID> <ItemID> <Amount> - Adds stated items to a player's inventory.
 	- Admin_RemoveItem <PlayerID> <ItemID> <Amount> - Removes stated items from a player's inventory.
 	- Admin_AddFlame <PlayerID> <Amount> - Gives the specified amount of XP to the stated player.
