@@ -65,6 +65,7 @@ Currently servers support following commands:
 		- WoodenSword_W - Stone Sword
 		- WoodenGreatAxe_W - Stone Battleaxe
 		- WoodenStaff_W - Wooden Staff
+		- WoodenBow_RW - Wooden Bow
 	- **II Tier**:
 		- BoneAxe_W - Bone Axe
 		- BonePick_W - Bone Pickaxe
@@ -74,6 +75,7 @@ Currently servers support following commands:
 		- BoneGreatSword_W - Two-handed Bone Sword
 		- BoneGreatAxe_W - Bone Battleaxe
 		- BoneStaff_W - Bone Staff
+		- BoneBow_RW - Bone Bow
 	- **III Tier**:
 		- MetalAxe_W - Metal Axe
 		- MetalPick_W - Metal Pickaxe
@@ -83,6 +85,7 @@ Currently servers support following commands:
 		- MetalGreatSword_W - Metal Two-handed Sword
 		- MetalGreatAxe_W - Metal Battleaxe
 		- MetalStaff_W - Metal Staff
+		- MetalBow_RW - Metal Bow
 	
 * Armor and Equipment:
 	- **Cloth Set**:
