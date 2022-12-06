@@ -127,7 +127,7 @@ Currently servers support following commands:
 		- ZombieIronMask_A - Black Mask
 		- BubbleHelmet_A - Bubble
 	
-* Resources:
+* **Resources**:
 	- Branches_M - Branch
 	- Wood_M - Log
 	- Plank_M - Plank
@@ -148,7 +148,7 @@ Currently servers support following commands:
 	- IronBar_M - Iron Ingot
 	- FlaskEmpty_C - Empty Waterskin
 
-* Quest:
+* **Quest Items**:
 	- Quest_CradleBowZombieMask_C - Skull Hunter Mask
 	- Quest_CradleAxeZombieMask_C - Raging Slayer Mask
 	- Quest_CradleStaffZombieMask_C - Smoldering Warlock Mask
