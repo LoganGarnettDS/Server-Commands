@@ -84,7 +84,7 @@ Currently servers support following commands:
 		- MetalGreatAxe_W - Metal Battleaxe
 		- MetalStaff_W - Metal Staff
 	
-*Armor and Equipment:
+* Armor and Equipment:
 	- **Cloth Set**:
 		- ClothHelmet_A - Cloth Bandana
 		- ClothArmor_A - Cloth Robe 
