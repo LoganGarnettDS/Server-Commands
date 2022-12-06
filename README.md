@@ -87,8 +87,17 @@ Currently servers support following commands:
 		- ClothArmor_A - Cloth Robe 
 		- ClothGloves_A - Cloth Gloves
 		- ClothPants_A - Cloth Pants
+		- ClothBoots_A - Cloth Foot Wraps
 	- Rawgide Set:
 		- RawhideHelmet_A - Rawhide Helmet
 		- RawhideArmor_A - Rawhide Armor
-		- RawhideGloves_A - 
+		- RawhideGloves_A - Rawhide Gloves
+		- RawhidePants_A - Rawhide Pants
+		- RawhideBoots_A - Rawhide Boots
+	- Leather Set:
+		- LeatherHelmet_A - Leather Helmet
+		- LeatherArmor_A - Leather Armor
+		- LeatherGloves_A - Leather Gloves
+		- LeatherPants_A - Leather Pants
+		- LeatherBoots_A - Leather Boots
 	
