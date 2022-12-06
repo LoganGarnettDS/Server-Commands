@@ -56,10 +56,39 @@ Currently servers support following commands:
 * Tools and Weapons
 	- I Tier:
 		- WoodenAxe_W - Stone Axe
-		- WoodenPike_W - Stone Pick
+		- WoodenPike_W - Stone Pickaxe
 		- WoodenTorch_W - Wooden Torch
 		- WoodenClub_W - Stone Mace
-		- WoodenGreatSword_W - Stone Two-Handed Sword
+		- WoodenGreatSword_W - Stone Two-handed Sword
 		- WoodenSword_W - Stone Sword
 		- WoodenGreatAxe_W - Stone Battleaxe
-		- WoodenStaff_W
+		- WoodenStaff_W - Wooden Staff
+	- II Tier:
+		- BoneAxe_W - Bone Axe
+		- BonePick_W - Bone Pickaxe
+		- BoneTorch_W - Bone Torch
+		- BoneClub_W - Bone Mace
+		- BoneSword_W - Bone Sword
+		- BoneGreatSword_W - Two-handed Bone Sword
+		- BoneGreatAxe_W - Bone Battleaxe
+		- BoneStaff_W - Bone Staff
+	- III Tier:
+		- MetalAxe_W - Metal Axe
+		- MetalPick_W - Metal Pickaxe
+		- MetalTorch_W - Metal Torch
+		- MetalMace_W - Metal Mace
+		- MetalSword_W - Metal Sword
+		- MetalGreatSword_W - Metal Two-handed Sword
+		- MetalGreatAxe_W - Metal Battleaxe
+		- MetalStaff_W - Metal Staff
+*Armor and Equipment:
+	- Cloth Set:
+		- ClothHelmet_A - Cloth Bandana
+		- ClothArmor_A - Cloth Robe 
+		- ClothGloves_A - Cloth Gloves
+		- ClothPants_A - Cloth Pants
+	- Rawgide Set:
+		- RawhideHelmet_A - Rawhide Helmet
+		- RawhideArmor_A - Rawhide Armor
+		- RawhideGloves_A - 
+	
