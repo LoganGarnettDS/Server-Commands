@@ -54,8 +54,12 @@ Currently servers support following commands:
 	
 	
 * Tools and Weapons
-	- WoodenAxe_W - Stone Axe
-	- WoodenPike_W - Stone Pick
-	- WoodenTorch_W - Wooden Torch
-	- WoodenClub_W - Stone Mace
-	- WoodenGreatSword_W - Stone Two-Handed Sword
+	- I Tier:
+		- WoodenAxe_W - Stone Axe
+		- WoodenPike_W - Stone Pick
+		- WoodenTorch_W - Wooden Torch
+		- WoodenClub_W - Stone Mace
+		- WoodenGreatSword_W - Stone Two-Handed Sword
+		- WoodenSword_W - Stone Sword
+		- WoodenGreatAxe_W - Stone Battleaxe
+		- WoodenStaff_W
