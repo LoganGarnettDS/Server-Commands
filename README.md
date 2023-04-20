@@ -1,7 +1,7 @@
 # Server Commands
 Server commands allow you to get more information regarding your server's players, control their access to it and affect their in-game state or inventory.
 Currently servers support following commands:
-- Angle brackets disignate <Required-parametres> - such parametres must be entered for the command to work.	
+- Angle brackets disignate < Required-parametres > - such parametres must be entered for the command to work.	
 - Square brackets disignate [Optional-parametres] - such parametres can be entered in addition to the command.
 	
 	
@@ -10,15 +10,15 @@ Currently servers support following commands:
 	- Admin_ListUserProfiles - Lists profiles of all players who ever joined the server.
 	- Admin_ReloadUserProfiles - Reloads user profiles; useful in case of profile deletion/transfer.
 	- Admin_SaveUserProfile - Saves user profiles in their current state.
-	- Admin_RemoveUserProfile <PlayerID> - Removes the stated user's profile.
-	- Admin_RemoveProfile <PlayerID> - Removes the stated player from the server, including his save data.
-	- Admin_AddUserProfile <PlayerID> <UserRoleAsString> - Adds a disignated role to the stated user.
-	- Admin_InfoUserProfile <PlayerID> - Displays detailed profile info of the stated user.
+	- Admin_RemoveUserProfile < PlayerID > - Removes the stated user's profile.
+	- Admin_RemoveProfile < PlayerID > - Removes the stated player from the server, including his save data.
+	- Admin_AddUserProfile < PlayerID > <UserRoleAsString> - Adds a disignated role to the stated user.
+	- Admin_InfoUserProfile < PlayerID > - Displays detailed profile info of the stated user.
 	
 * **Kicks and Bans**:
-	- Admin_KickPlayer <PlayerID> <Reason> - Kicks the stated player with shown reason.
-	- Admin_Chatban <PlayerID> <Seconds> <Reason> - Bans the stated player from using chat for the specified amount of time.
-	- Admin_ChatUnban <PlayerID> - Allows the stated player to use chat again.
+	- Admin_KickPlayer < PlayerID > < Reason > - Kicks the stated player with shown reason.
+	- Admin_Chatban < PlayerID > < Seconds > < Reason > - Bans the stated player from using chat for the specified amount of time.
+	- Admin_ChatUnban < PlayerID > - Allows the stated player to use chat again.
 	- Admin_Ban <PlayerID> <Seconds> <Reason> - Bans the stated player from the server for the specified amount of time.
 	- Admin_Unban <PlayerID> - Unbans the stated player.
 	
