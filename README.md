@@ -19,8 +19,8 @@ Currently servers support following commands:
 	- Admin_KickPlayer < PlayerID > < Reason > - Kicks the stated player with shown reason.
 	- Admin_Chatban < PlayerID > < Seconds > < Reason > - Bans the stated player from using chat for the specified amount of time.
 	- Admin_ChatUnban < PlayerID > - Allows the stated player to use chat again.
-	- Admin_Ban <PlayerID> <Seconds> <Reason> - Bans the stated player from the server for the specified amount of time.
-	- Admin_Unban <PlayerID> - Unbans the stated player.
+	- Admin_Ban < PlayerID > < Seconds> < Reason > - Bans the stated player from the server for the specified amount of time.
+	- Admin_Unban < PlayerID > - Unbans the stated player.
 	
 * **Server Manipulation**:
 	- Admin_Shutdown - Shuts down the server.
@@ -28,19 +28,19 @@ Currently servers support following commands:
 	- Admin_ServerWorld - Displays the current version of the server.
 	- Admin_SaveWorld - Saves the world in its current state.
 	- Admin_SaveAll - Saves both the world and player profiles in their current state.
-	- Admin_ScheduleMaintenanceMode <Seconds> - Schedules a maintenance and displays an in-game message.
+	- Admin_ScheduleMaintenanceMode < Seconds > - Schedules a maintenance and displays an in-game message.
 	- Admin_CancelScheduledMaintenanceMode - Cancels the scheduled maintenance.
 		
 * **Player Interaction**:
-	- Admin_GetPlayerInfo <PlayerID> - Displays additional information about a player.
-  	- Admin_GetPlayerInventory <PlayerID> - Displays item IDs and their amount in a player's inventory.
-	- Admin_AddItem <PlayerID> <ItemID> <Amount> - Adds stated items to a player's inventory.
-	- Admin_RemoveItem <PlayerID> <ItemID> <Amount> - Removes stated items from a player's inventory.
-	- Admin_AddFlame <PlayerID> <Amount> - Gives the specified amount of XP to the stated player.
-	- Admin_RemoveFlame <PlayerID> <Amount> - Removes the specified amount of XP from the stated player; cannot reduce the player's level.
-	- Admin_Respawn <PlayerID> - Respawns the stated player.
-	- Admin_SetCurse <PlayerID> <Amount> - _DEPRECATED! USE AT YOUR OWN RISK!_ Afflicts the stated player with Curse.
-	- Admin_RemoveCurse <PlayerID> <Amount> - The supposed remedy for the previous command.
+	- Admin_GetPlayerInfo < PlayerID > - Displays additional information about a player.
+  	- Admin_GetPlayerInventory < PlayerID > - Displays item IDs and their amount in a player's inventory.
+	- Admin_AddItem < PlayerID > < ItemID > < Amount> - Adds stated items to a player's inventory.
+	- Admin_RemoveItem < PlayerID > < ItemID > < Amount > - Removes stated items from a player's inventory.
+	- Admin_AddFlame < PlayerID > < Amount > - Gives the specified amount of XP to the stated player.
+	- Admin_RemoveFlame < PlayerID > < Amount > - Removes the specified amount of XP from the stated player; cannot reduce the player's level.
+	- Admin_Respawn < PlayerID > - Respawns the stated player.
+	- Admin_SetCurse < PlayerID > < Amount > - _DEPRECATED! USE AT YOUR OWN RISK!_ Afflicts the stated player with Curse.
+	- Admin_RemoveCurse < PlayerID > < Amount > - The supposed remedy for the previous command.
 	- Admin_ChatMessage [Message] - Displays the stated message in the game chat.
 	
 	# Item IDs
